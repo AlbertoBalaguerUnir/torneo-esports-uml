@@ -24,10 +24,15 @@ Link al repositorio del proyecto: [https://github.com/AlbertoBalaguerUnir/torneo
 ## Estructura del Proyecto
 
 torneo-esports-uml/
-├── diagrams/
+
+├── diagrams/ 
+
 | ├── casos-uso.png
+
 | ├── clases.png
+
 ├── README.md
+
 ├── TorneoESports_ABalaguer.pdf
 
 ## Instalación y Ejecución
