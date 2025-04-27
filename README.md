@@ -12,7 +12,7 @@ Comenzamos con el diagrama de casos de uso, para el cual hemos decretado la part
 
 Por último, procedemos al desarrollo del diagrama de clases, organizando las distintas clases, con sus atributos y métodos.
 
-Link al repositorio del proyecto: https://github.com/AlbertoBalaguerUnir/torneo-esports-um
+Link al repositorio del proyecto: [https://github.com/AlbertoBalaguerUnir/torneo-esports-um](https://github.com/AlbertoBalaguerUnir/torneo-esports-uml.git)
 
 ## Diagramas UML
  ### Diagrama de Casos de Uso
