@@ -28,7 +28,7 @@ torneo-esports-uml/
 | ├── casos-uso.png
 | ├── clases.png
 ├── README.md
-├── .gitignore
+├── TorneoESports_ABalaguer.pdf
 
 ## Instalación y Ejecución
 1. Clonar el repositorio:
