@@ -14,21 +14,16 @@ Por último, procedemos al desarrollo del diagrama de clases, organizando las di
 
 Link al repositorio del proyecto: https://github.com/AlbertoBalaguerUnir/torneo-esports-um
 
-##Diagramas UML
+## Diagramas UML
  ### Diagrama de Casos de Uso
   ![Diagrama de casos de uso](diagrams/casos-uso.png)
 
 ### Diagrama de Clases
   ![Diagrama de clases](diagrams/clases.png)
 
-##Estructura del Proyecto
+## Estructura del Proyecto
 
-torneo-esports-uml/ ├── src/
-| ├── es/empresa/torneo/
-| ├── modelo/
-| ├── control/
-| ├── vista/
-| ├── Main.java
+torneo-esports-uml/
 ├── diagrams/
 | ├── casos-uso.png
 | ├── clases.png
@@ -39,12 +34,8 @@ torneo-esports-uml/ ├── src/
 1. Clonar el repositorio:
 `git clone https://github.com/AlbertoBalaguerUnir/torneo-esports-uml.git`
 
-2. Compilar y ejecutar el proyecto:
-`cd src javac es/empresa/torneo/Main.java java es.empresa.torneo.Main`
-
 ## Justificación del diseño
+El empleo de UML radica en su capacidad para facilitar la comunicación y la comprensión de sistemas complejos. Nos permite representar la estructura, el comportamiento y las interacciones de un sistema de software de manera concisa.  
 
 ## Conclusiones
-El proyecto ha significado la primera toma de contacto con el diseño en UML.
-
-  
+El proyecto ha significado la primera toma de contacto con UML, el lenguaje estandarizado de modelado visual para el diseño de sistemas de software.
